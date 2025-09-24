@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It was created to test the dsr Flip Flop.
 
 ## How to test
 
-Explain how to use your project
+Use the Dip switches to set 1 or nothing
 
 ## External hardware
 
